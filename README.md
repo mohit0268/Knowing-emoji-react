@@ -1,2 +1,2 @@
-# Knowing-emoji-react
+# emoji-Dictionary
 Created with CodeSandbox
